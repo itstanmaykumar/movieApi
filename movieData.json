@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "name": "Interstellar",
       "year": 2014,
       "tomato": 83,
@@ -20,7 +20,7 @@
       "ticket": 10
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Inception",
       "year": 2010,
       "tomato": 84,
@@ -40,7 +40,7 @@
       "ticket": 15
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "The Martian",
       "year": 2015,
       "tomato": 77,
@@ -60,7 +60,7 @@
       "ticket": 22
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "The Dark Knight",
       "year": 2008,
       "tomato": 85,
@@ -80,7 +80,7 @@
       "ticket": 12
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Dune",
       "year": 2021,
       "tomato": 81,
@@ -100,7 +100,7 @@
       "ticket": 30
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Eternals",
       "year": 2021,
       "tomato": 81,
@@ -120,7 +120,7 @@
       "ticket": 40
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "No Time to Die",
       "year": 2021,
       "tomato": 73,
@@ -140,7 +140,7 @@
       "ticket": 5
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Finding Nemo",
       "year": 2003,
       "tomato": 78,
@@ -160,7 +160,7 @@
       "ticket": 18
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Shutter Island",
       "year": 2010,
       "tomato": 82,
@@ -180,7 +180,7 @@
       "ticket": 27
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Baishe Srabon",
       "year": 2011,
       "tomato": 74,
@@ -200,7 +200,7 @@
       "ticket": 30
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Free Guy",
       "year": 2021,
       "tomato": 78,
@@ -220,7 +220,7 @@
       "ticket": 15
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Chernobyl 1986",
       "year": 2021,
       "tomato": 63,
